@@ -956,8 +956,7 @@ Las principales tareas de este ejercicio son las siguientes:
 
     >**Note**: Verify the presence of the uploaded image.
     
-    ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/18.png)
-
+    
 18. Click **clown-trigger.jpg**.
 
 19. Click **Edit blob**.
