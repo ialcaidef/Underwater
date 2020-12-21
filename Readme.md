@@ -212,6 +212,12 @@ Las principales tareas de este ejercicio son las siguientes:
 
 6. In the **Pick a publish target** dialog box, in the navigation pane, click **App Service**.
 
+    ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/04.png)
+   
+   
+    ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/05.png)
+    
+
 7. In the **Pick a publish target** dialog box, in the result pane, click **Select Existing**.
 
 8. Click the arrow next to **Publish**, and then click **Create Profile**.
@@ -250,6 +256,7 @@ Las principales tareas de este ejercicio son las siguientes:
 
 20. In the **Publish** window, click **Save**.
 
+    ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/06.png)
 
 #### Task 4: Deploy the application
 
