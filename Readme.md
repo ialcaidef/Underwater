@@ -254,6 +254,12 @@ Las principales tareas de este ejercicio son las siguientes:
        Server=tcp:Underwater{unique name}.database.windows.net,1433;Initial Catalog=UnderwaterDB;Persist Security Info=False;User ID=Underwateradmin;Password=p@@sw0rd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
 ```
 
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/08.png)
+   
+   
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/07.png)
+   
+
 20. In the **Publish** window, click **Save**.
 
     ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/06.png)
@@ -273,6 +279,8 @@ Las principales tareas de este ejercicio son las siguientes:
 6. On the **Add a Fish to Aquarium** page, in the **Picture** file chooser, go to **[Repository Root]\Allfiles\Mod14\Labfiles\Images**, click **salmon.jpg**, and then click **Open**.
 
 7. On the **Add a Fish to Aquarium** page, click **Add**.
+
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/10.png)
 
 8. On the **Dive into Our Fish Species** page, verify the newly submitted details.
 
