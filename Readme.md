@@ -270,6 +270,8 @@ Las principales tareas de este ejercicio son las siguientes:
 
 2. In Microsoft Edge, click **Add Fish**.
 
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/09.png)
+
 3. On the **Add a Fish to Aquarium** page, in the **Aquarium** list, select **_&lt;A aquarium of your choice&gt;._**.
 
 4. On the **Add a Fish to Aquarium** page, in the **Fish Name** box, type **_&lt;A fish name of your choice&gt;._**.
@@ -498,6 +500,8 @@ Las principales tareas de este ejercicio son las siguientes:
 
 30. On the **Add a Fish to Aquarium** page, click **Add**.
 
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/11.png)
+
 31. On the **Dive into Our Fish Species** page, verify the newly submitted details.
 
 32. On the **Dive into Our Fish Species** page, select a fish of your choice, and then click **Details**.
@@ -545,6 +549,8 @@ Las principales tareas de este ejercicio son las siguientes:
 
 7. In the **Create storage account** window, click **Review + create**.
 
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/12.png)
+
 8. In the **Create storage account** window, click **Create**.
 
 9. In the **Microsoft.StorageAccount-**{unique number} **- Overview** window, under **RESOURCE**, click **underwater{unique name}**.
@@ -555,6 +561,8 @@ Las principales tareas de este ejercicio son las siguientes:
 
 12. In the **New container** window, in the **Name** box, type **aquarium**.
 
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/13.png)
+
 13. In the **New Container** window, in the **Public Access Level** drop-down list, select **Blob(anonymous read access for blobs only)**, and then click **OK**.
 
 #### Task 2: Prepare the application for working with Azure Storage
@@ -563,6 +571,8 @@ Las principales tareas de este ejercicio son las siguientes:
 
 2. In the **Connected Services** window, click **Cloud Storage with Azure Storage**.
 
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/14.png)
+
 3. In the **Azure Storage** window, sign in to your Azure account.
 
    >**Note**: In case you are already signed in, you will not see the **Sign in** dialog box. In that case, proceed to the next step.
@@ -570,6 +580,12 @@ Las principales tareas de este ejercicio son las siguientes:
 4. In the **Azure Storage** window, click  **Underwater{unique name}** , and then click **Add**.
 
    >Microsoft Edge displays the following URL: https://docs.microsoft.com/en-us/azure/visual-studio/vs-storage-aspnet-getting-started-blobs.
+   
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/15.png)
+   
+   
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/16.png)
+   
 
 5. In Microsoft Edge, click **Close**.
 
@@ -920,6 +936,8 @@ Las principales tareas de este ejercicio son las siguientes:
 
 9. On the **Add a Fish to Aquarium** page, click **Add**.
 
+   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/17.png)
+
 10. On the **Dive into Our Fish Species** page, verify the newly submitted details.
 
 11. Close the **Microsoft Edge** window.
@@ -937,6 +955,8 @@ Las principales tareas de este ejercicio son las siguientes:
 17. In the **Blobs** window, click **aquarium**.
 
     >**Note**: Verify the presence of the uploaded image.
+    
+    ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/18.png)
 
 18. Click **clown-trigger.jpg**.
 
