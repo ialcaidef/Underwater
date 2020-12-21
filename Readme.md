@@ -183,7 +183,7 @@ Las principales tareas de este ejercicio son las siguientes:
 
 17. In the **Web App + SQL** window, click **Create**.
 
-   ![Underwater](https://github.com/ialcaidef/Underwater/blob/master/Images/03.png)
+   
 
 #### Task 3: Prepare the application for deployment
 
